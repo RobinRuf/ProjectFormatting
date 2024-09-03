@@ -41,7 +41,7 @@ To configure a formatting (prettier) command, you need to insert something in th
 "format": "prettier --write \"frontend/**/*.{js,jsx,ts,tsx,html,css,json,md}\""
 ```
 
-> ![NOTE]
+> [!NOTE]
 > You may need to change the directory of the frontend if needed.
 
 This way, you can use i.e. `npm run format` in your console to run prettier.\
